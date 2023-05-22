@@ -98,23 +98,30 @@
     }
   ],
   "users": [
-    {
-      "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "role": "admin",
-      "id": 1
-    },
-    {
-      "email": "grace.hopper@systers.xyz",
-      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
-      "role": "admin",
-      "id": 2
-    },
-    {
-      "email": "nara.sakamoto@laboratoria.la",
-      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
-      "role": "admin",
-      "id": 3
-    }
-  ]
+    
+      {
+        "email": "anita.borg@systers.xyz",
+        "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
+        "role": "admin",
+        "id": 1
+      },
+      {
+        "email": "grace.hopper@systers.xyz",
+        "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
+        "role": "admin",
+        "id": 2
+      },
+      {
+        "email": "nara.sakamoto@laboratoria.la",
+        "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
+        "role": "admin",
+        "id": 3
+      },
+      {
+        "email": "thai@linda.com",
+        "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
+        "role": "admin",
+        "id": 5
+      }
+    ]
 }
