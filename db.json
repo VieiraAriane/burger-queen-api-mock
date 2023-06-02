@@ -95,6 +95,13 @@
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
       "type": "Almuerzo",
       "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Sorvete",
+      "price": 10,
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:10"
     }
   ],
   "users": 
@@ -116,6 +123,12 @@
         "password": "$2a$10$DqFwXKzShljfpreuGTpfjOjeU2hysfeRqTS0kxrx3ERmvAtyVwSpa",
         "role": "atendente",
         "id": 3
+      },
+      {
+        "email": "nar@linda.com",
+        "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
+        "role": "adimin",
+        "id": 4
       }
     ]
     
