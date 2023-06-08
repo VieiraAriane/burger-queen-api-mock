@@ -67,69 +67,67 @@
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y queso",
-      "price": 1000,
+      "name": "Sanduíche de preseunto e queijo",
+      "price": 10,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Desayuno",
+      "type": "Desjejum",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
       "name": "Café americano",
-      "price": 500,
+      "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Desayuno",
+      "type": "Desjejum",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
-      "name": "Agua 500ml",
-      "price": 500,
+      "name": "Café com leite",
+      "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Almuerzo",
+      "type": "Desjejum",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "name": "Agua 500ml",
-      "price": 500,
+      "name": "Suco de fruta natural",
+      "price": 7,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-      "type": "Almuerzo",
+      "type": "Desjejum",
       "id": 4
     },
     {
       "id": 5,
-      "name": "Sorvete",
+      "name": "Pão na chapa",
       "price": 10,
-      "type": "Desayuno",
+      "type": "Desjejum",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
-  "users": 
-        [
-      {
-        "email": "thai@linda.com",
-        "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
-        "role": "atendente",
-        "id": 1
-      },
-      {
-        "email": "ari@linda.com",
-        "password": "$2a$10$Cb7LYhcbmy4xTb6m4MgHd.pF./mjebW.990xBjVWyuaU5O10cYrXi",
-        "role":"atendente",
-        "id": 2
-      },
-      {
-        "email": "thali@linda.com",
-        "password": "$2a$10$DqFwXKzShljfpreuGTpfjOjeU2hysfeRqTS0kxrx3ERmvAtyVwSpa",
-        "role": "atendente",
-        "id": 3
-      },
-      {
-        "email": "nar@linda.com",
-        "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
-        "role": "adimin",
-        "id": 4
-      }
-    ]
-    
+  "users": [
+    {
+      "email": "thai@linda.com",
+      "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
+      "role": "atendente",
+      "id": 1
+    },
+    {
+      "email": "ari@linda.com",
+      "password": "$2a$10$Cb7LYhcbmy4xTb6m4MgHd.pF./mjebW.990xBjVWyuaU5O10cYrXi",
+      "role": "atendente",
+      "id": 2
+    },
+    {
+      "email": "thali@linda.com",
+      "password": "$2a$10$DqFwXKzShljfpreuGTpfjOjeU2hysfeRqTS0kxrx3ERmvAtyVwSpa",
+      "role": "atendente",
+      "id": 3
+    },
+    {
+      "email": "nar@linda.com",
+      "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
+      "role": "adimin",
+      "id": 4
+    }
+  ]
 }
