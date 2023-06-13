@@ -193,6 +193,12 @@
       "password": "$2a$10$DqFwXKzShljfpreuGTpfjOjeU2hysfeRqTS0kxrx3ERmvAtyVwSpa",
       "role": "chef",
       "id": 6
+    },
+    {
+      "email": "socorro@linda.com",
+      "password": "$2a$10$Z4NVHqv5ly4m9/2krMLXT.o/QnyGhm4GsbK.cY0NBSiZ8AuQbI9.e",
+      "role": "atendente",
+      "id": 1
     }
   ]
 }
