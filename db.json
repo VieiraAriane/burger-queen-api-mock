@@ -69,7 +69,7 @@
       "id": 1,
       "name": "Sanduíche de presunto e queijo",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/2908a6e4-9a59-4e1f-9c85-a1ae6e2fa4db",
       "type": "Desjejum",
       "category": "lanche",
       "dateEntry": "2022-03-05 15:14:10"
@@ -78,7 +78,7 @@
       "id": 2,
       "name": "Café americano",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/2044ea99-e86c-4d60-a3f7-a49c8ce3c482",
       "type": "Desjejum",
       "category": "bebida",
       "dateEntry": "2022-03-05 15:14:10"
@@ -87,7 +87,7 @@
       "id": 3,
       "name": "Café com leite",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": " https://github.com/euerika/Barbie-Burger/assets/109056305/5cdfc4f5-17b7-4c1c-b519-a18aeb0c345f",
       "type": "Desjejum",
       "category": "bebida",
       "dateEntry": "2022-03-05 15:14:10"
@@ -95,7 +95,7 @@
     {
       "name": "Suco de fruta natural",
       "price": 7,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/0ef542db-a5bc-4826-a8b5-a196f3b3b153",
       "type": "Desjejum",
       "category": "bebida",
       "id": 4
@@ -104,6 +104,8 @@
       "id": 5,
       "name": "Pão na chapa",
       "price": 10,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/eb6069aa-0fd6-492b-9b01-671f9decec83",
+
       "type": "Desjejum",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -111,6 +113,8 @@
       "id": 6,
       "name": "Hamburguer Simples",
       "price": 10,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/c8bb54e8-2694-4fea-83c9-6f2a53d2c08b",
+
       "type": "Principal",
       "category": "lanche",
       "dateEntry": "2022-03-05 15:14:10"
@@ -119,6 +123,7 @@
       "id": 7,
       "name": "Hamburguer Duplo",
       "price": 15,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/b556043f-a3f9-46a4-9a58-730d9132f1cf",
       "type": "Principal",
       "category": "lanche",
       "dateEntry": "2022-03-05 15:14:10"
@@ -127,6 +132,7 @@
       "id": 8,
       "name": "Batata Frita",
       "price": 5,
+      "image": " https://github.com/euerika/Barbie-Burger/assets/109056305/9385e5ea-c80d-4f71-b9ef-43991e2d26c8",
       "type": "Principal",
       "category": "acompanhamento",
       "dateEntry": "2022-03-05 15:14:10"
@@ -135,6 +141,7 @@
       "id": 9,
       "name": "Anéis de Cebola",
       "price": 5,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/63c1e5c9-5c54-42cf-9bf0-c313fb9a012a",
       "type": "Principal",
       "category": "acompanhamento",
       "dateEntry": "2022-03-05 15:14:10"
@@ -143,14 +150,16 @@
       "id": 10,
       "name": "Bebida Gaseificada 500ml",
       "price": 7,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/1db5c11b-b477-4fb6-a59c-ac031664954b",
       "type": "Principal",
       "category": "bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 11,
-      "name": "Bebida Gaseificada 750ml",
-      "price": 10,
+      "name": "Água 500ml",
+      "price": 7,
+      "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/d80e9e50-061f-47ab-b740-2ad3cae66c7d",
       "type": "Principal",
       "category": "bebida",
       "dateEntry": "2022-03-05 15:14:10"
