@@ -1,73 +1,71 @@
 {
   "orders": [
     {
-      "id": 1,
-      "userId": 1,
-      "client": "Jude Milhon",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2022-03-05 15:00"
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "client": "Katie Bouman",
-      "products": [
-        {
-          "qty": 2,
-          "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 3,
-            "name": "Agua 500ml",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "delivered",
-      "dataEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
-    }
+    "id": 3,
+		"user": "1",
+		"mesa": "4",
+		"client": "Ari",
+		"products": [
+			{
+				"qty": 1,
+				"product": {
+					"id": 1,
+					"name": "Misto quente",
+					"price": 10,
+					"dateEntry": "20/06/2023 -- 13:39"
+				}
+			},
+			{
+				"qty": 1,
+				"product": {
+					"id": 4,
+					"name": "Suco de fruta natural",
+					"price": 7,
+					"dateEntry": "20/06/2023 -- 13:39"
+				}
+			}
+		],
+		"status": "Pendente",
+		"dataEntry": "20/06/2023 -- 13:39",
+    "dateProcessed": "20/06/2023 -- 16:00"
+
+	},
+	{
+    "id": 2,
+		"user": "1",
+		"mesa": "6",
+		"client": "Thali",
+		"products": [
+			{
+				"qty": 1,
+				"product": {
+					"id": 2,
+					"name": "Café americano",
+					"price": 5,
+					"dateEntry": "20/06/2023 -- 13:40"
+				}
+			},
+			{
+				"qty": 1,
+				"product": {
+					"id": 1,
+					"name": "Misto quente",
+					"price": 10,
+					"dateEntry": "20/06/2023 -- 13:40"
+				}
+			}
+		],
+		"status": "Pendente",
+		"dataEntry": "20/06/2023 -- 13:40",
+    "dateProcessed": "20/06/2023 -- 16:00"
+	
+	}
   ],
+  
   "products": [
     {
       "id": 1,
-      "name": "Sanduíche de presunto e queijo",
+      "name": "Misto quente",
       "price": 10,
       "image": "https://github.com/euerika/Barbie-Burger/assets/109056305/2908a6e4-9a59-4e1f-9c85-a1ae6e2fa4db",
       "type": "Desjejum",
